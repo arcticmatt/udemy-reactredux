@@ -1,0 +1,3 @@
+[submodule "ReduxSimpleStarter"]
+	path = ReduxSimpleStarter
+	url = git@github.com:arcticmatt/ReduxSimpleStarter.git
